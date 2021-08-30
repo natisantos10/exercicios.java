@@ -6,8 +6,9 @@ public class MediaSalario{
         n2 = 38500.80;
         n3 = 4200.60;
         n4 = 9800.75;
+        n5 = 9500.60
 
-        media = (n1 + n2 + n3 + n4) / 4;
+        media = (n1 + n2 + n3 + n4 n5) / 4;
 
         System.out.println("A média Salarial é" + media)
     }
